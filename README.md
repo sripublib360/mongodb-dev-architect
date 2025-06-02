@@ -15,3 +15,6 @@ Used or
 - Cloud Computing Solutions
  Architecture of MongoDB 
    - Comp
+
+   
+![alt text](image-2.png)
